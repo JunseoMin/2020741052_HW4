@@ -20,4 +20,5 @@
 #### Fork 기능 사용하기 
 - 누군가를 Fork한다. 
 - Fork한 상대방과의 Communication 진행
-  
+
+#### GIT pull reaquest
