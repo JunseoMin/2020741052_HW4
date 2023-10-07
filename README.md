@@ -22,3 +22,7 @@
 - Fork한 상대방과의 Communication 진행
 
 #### GIT pull reaquest
+-----
+
+#### Change branch name
+``` git branch -M "main" ```
